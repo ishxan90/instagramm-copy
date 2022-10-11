@@ -1,0 +1,10 @@
+.newComment {
+   padding-left: 10px;
+   word-break: break-all;
+}
+
+.deleteComment {
+   color: red;
+   padding-left: 8px;
+   cursor: pointer;
+}
